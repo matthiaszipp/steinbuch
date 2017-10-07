@@ -1515,10 +1515,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -1966,10 +1966,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2411,10 +2411,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2856,10 +2856,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3301,10 +3301,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3746,10 +3746,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4191,10 +4191,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4636,10 +4636,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5081,10 +5081,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5526,10 +5526,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Monospace</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5602,9 +5602,9 @@ QGroupBox::title {
    <widget class="QWidget" name="gridLayoutWidget_3">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>0</x>
       <y>50</y>
-      <width>771</width>
+      <width>801</width>
       <height>41</height>
      </rect>
     </property>
