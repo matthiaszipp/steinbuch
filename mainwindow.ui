@@ -1036,7 +1036,7 @@ background: rgb(255, 100, 100);
     </property>
     <property name="geometry">
      <rect>
-      <x>610</x>
+      <x>615</x>
       <y>90</y>
       <width>41</width>
       <height>311</height>
@@ -1053,33 +1053,6 @@ background: rgb(255, 100, 100);
     <property name="title">
      <string/>
     </property>
-    <widget class="QLabel" name="label_2">
-     <property name="enabled">
-      <bool>true</bool>
-     </property>
-     <property name="geometry">
-      <rect>
-       <x>0</x>
-       <y>10</y>
-       <width>50</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="maximumSize">
-      <size>
-       <width>50</width>
-       <height>20</height>
-      </size>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>7</pointsize>
-      </font>
-     </property>
-     <property name="text">
-      <string/>
-     </property>
-    </widget>
     <widget class="QLabel" name="label_E">
      <property name="enabled">
       <bool>true</bool>
@@ -1515,10 +1488,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -1966,10 +1939,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2411,10 +2384,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2856,10 +2829,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3301,10 +3274,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3746,10 +3719,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4191,10 +4164,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4636,10 +4609,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5081,10 +5054,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5526,10 +5499,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Nimbus Sans L</family>
-       <pointsize>12</pointsize>
-       <weight>75</weight>
-       <bold>true</bold>
+       <family>Droid Sans Mono</family>
+       <pointsize>14</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
