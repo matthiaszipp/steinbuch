@@ -59,7 +59,7 @@ QGroupBox::title {
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>-20</y>
+       <y>-10</y>
        <width>81</width>
        <height>311</height>
       </rect>
