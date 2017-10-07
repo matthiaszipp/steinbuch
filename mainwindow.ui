@@ -19,13 +19,7 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">QPushButton{
-color: black;
-background: red; 
-border: 1px solid;
-
-}
-</string>
+   <string notr="true"/>
   </property>
   <widget class="QWidget" name="centralWidget">
    <property name="styleSheet">
@@ -959,7 +953,11 @@ QGroupBox::title {
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">backgroundColourButton-&gt;setStyleSheet(&quot;background-color: red&quot;);</string>
+     <string notr="true">QPushButton{
+color: black;
+background: red; 
+}
+</string>
     </property>
     <property name="text">
      <string>alles vergessen</string>

@@ -51,6 +51,7 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
         self.vergessenButton.clicked.connect(Vergessen)
         #self.showFullScreen()
         self.setBuchstabenVisible(all=True,visible=False)
+        self.update()
         self.show()
 
     def paintEvent(self, QPaintEvent):
