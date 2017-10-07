@@ -904,14 +904,17 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>10</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="autoFillBackground">
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true"/>
+     <string notr="true">QPushButton{
+background: lightgreen; 
+}
+</string>
     </property>
     <property name="text">
      <string>Eingabe anlernen</string>
@@ -928,11 +931,15 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>10</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true"/>
+     <string notr="true">QPushButton{
+background: yellow; 
+ 
+}
+</string>
     </property>
     <property name="text">
      <string>Beispiel anlernen</string>
@@ -949,13 +956,13 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>10</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-color: black;
-background: red; 
+background: rgb(255, 100, 100);
+
 }
 </string>
     </property>
