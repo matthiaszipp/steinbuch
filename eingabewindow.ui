@@ -17,9 +17,9 @@
    <property name="geometry">
     <rect>
      <x>590</x>
-     <y>150</y>
-     <width>151</width>
-     <height>181</height>
+     <y>180</y>
+     <width>191</width>
+     <height>121</height>
     </rect>
    </property>
    <property name="palette">
@@ -437,6 +437,11 @@
      </disabled>
     </palette>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
    <property name="text">
     <string>zurücksetzen</string>
    </property>
@@ -450,23 +455,28 @@
      <height>461</height>
     </rect>
    </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
    <property name="styleSheet">
     <string notr="true">
 QPushButton{
 color: black;
-background: lightgrey; 
+background: rgb(180,180,180); 
 border: 1px solid;
-border-radius:40px;
+border-radius:30px;
 outline: 0;
 }
 
 QPushButton:checked{
-	background: orange;
+	background: rgb(255,220,0);
 }
 
 QPushButton:hover:!pressed
 {
-  border: 1px solid orange;
+  border: 1px solid rgb(255,220,0);
 }
 
 QGroupBox {

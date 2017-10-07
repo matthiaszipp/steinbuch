@@ -13,7 +13,6 @@ anzahlGewichte = 20
 eingabevektor = [-1]*anzahlGewichte
 proto_eingabevektor = [-1]*anzahlGewichte
 
-
 class Neuron:
 
     def __init__(self):
@@ -49,7 +48,6 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
         self.anlernenButton.clicked.connect(Anlernen)
         self.beispielButton.clicked.connect(BspAnlernen)
         self.vergessenButton.clicked.connect(Vergessen)
-
 
         self.setBuchstabenVisible(all=True,visible=False)
         self.update()
@@ -110,8 +108,24 @@ class EingabeWindow(QtGui.QWidget,Ui_EingabeWindow):
         self.setMaximumSize(myWindowWidth, myWindowHeight)
         self.resetButton.clicked.connect(ResetEingabe)
         for child in self.gridLayoutWidget_2.findChildren(QPushButton):
-           child.clicked.connect(UpdateButtons)
+            child.clicked.connect(UpdateButtons)
+
+        for child in self.gridLayoutWidget_2.findChildren(QPushButton):
+            child.installEventFilter(self)
+
+        #self.button00.setChecked(True)
         self.show()
+
+
+
+    def eventFilter(self, object, event):
+
+        if event.type() == QtCore.QEvent.HoverMove:
+            object.setChecked(True)
+            UpdateButtons()
+            return True
+
+        return False
 
 def PrintEingabe():
     for wert in eingabevektor:
@@ -130,6 +144,7 @@ def ResetEingabe():
 
     ResetProgress()
     maingui.repaint()
+    UpdateButtons()
 
 def ResetProgress():
     # Progressbars auf 0 setzen
@@ -211,7 +226,7 @@ def udpRecievedEvent(recievedEingabe):
 #Neuronen initialisieren
 Neuronen = list()
 for i in range(anzahlNeuronen):
-        Neuronen.append(Neuron())
+    Neuronen.append(Neuron())
 
 
 #Guis initialisieren
