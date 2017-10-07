@@ -405,9 +405,9 @@ QGroupBox::title {
    <widget class="QGroupBox" name="groupBox_Kannphase">
     <property name="geometry">
      <rect>
-      <x>650</x>
+      <x>660</x>
       <y>100</y>
-      <width>141</width>
+      <width>131</width>
       <height>301</height>
      </rect>
     </property>
@@ -436,7 +436,7 @@ QGroupBox::title {
     <widget class="QWidget" name="gridLayoutWidget">
      <property name="geometry">
       <rect>
-       <x>10</x>
+       <x>0</x>
        <y>0</y>
        <width>131</width>
        <height>291</height>
@@ -616,6 +616,12 @@ QGroupBox::title {
       </item>
       <item row="1" column="2">
        <widget class="QProgressBar" name="b0_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -624,7 +630,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -634,6 +640,12 @@ QGroupBox::title {
       </item>
       <item row="2" column="2">
        <widget class="QProgressBar" name="b1_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -642,7 +654,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -652,6 +664,12 @@ QGroupBox::title {
       </item>
       <item row="3" column="2">
        <widget class="QProgressBar" name="b2_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -660,7 +678,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -670,6 +688,12 @@ QGroupBox::title {
       </item>
       <item row="4" column="2">
        <widget class="QProgressBar" name="b3_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -678,7 +702,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -688,6 +712,12 @@ QGroupBox::title {
       </item>
       <item row="5" column="2">
        <widget class="QProgressBar" name="b4_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -696,7 +726,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -706,6 +736,12 @@ QGroupBox::title {
       </item>
       <item row="6" column="2">
        <widget class="QProgressBar" name="b5_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -714,7 +750,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -724,6 +760,12 @@ QGroupBox::title {
       </item>
       <item row="7" column="2">
        <widget class="QProgressBar" name="b6_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -732,7 +774,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -742,6 +784,12 @@ QGroupBox::title {
       </item>
       <item row="8" column="2">
        <widget class="QProgressBar" name="b7_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -750,7 +798,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -760,6 +808,12 @@ QGroupBox::title {
       </item>
       <item row="9" column="2">
        <widget class="QProgressBar" name="b8_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -768,7 +822,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
@@ -778,6 +832,12 @@ QGroupBox::title {
       </item>
       <item row="10" column="2">
        <widget class="QProgressBar" name="b9_progress">
+        <property name="minimumSize">
+         <size>
+          <width>90</width>
+          <height>20</height>
+         </size>
+        </property>
         <property name="maximumSize">
          <size>
           <width>90</width>
@@ -786,7 +846,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>8</pointsize>
+          <pointsize>9</pointsize>
          </font>
         </property>
         <property name="value">
