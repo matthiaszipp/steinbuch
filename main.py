@@ -68,9 +68,9 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
         for i in range(20):
 
             if (eingabevektor[i] == 1):
-                qp.setBrush(QtGui.QColor(255, 170, 0))
+                qp.setBrush(QtGui.QColor(255, 220, 0))
             else:
-                qp.setBrush(QtGui.QColor(150, 150, 150))
+                qp.setBrush(QtGui.QColor(180, 180, 180))
 
             qp.drawRect(22+i*38, 28, 33, 33)
 
@@ -82,9 +82,9 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
             for spalte in range(20):
 
                 if(Neuronen[zeile].gewicht[spalte] == 1):
-                    qp.setBrush(QtGui.QColor(255, 170, 0))
+                    qp.setBrush(QtGui.QColor(255, 220, 0))
                 else:
-                    qp.setBrush(QtGui.QColor(150, 150, 150))
+                    qp.setBrush(QtGui.QColor(180, 180, 180))
 
                 qp.drawRect(133 + spalte * 25, 125+zeile*26, 20, 20)
 

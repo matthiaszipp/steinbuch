@@ -964,7 +964,7 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="autoFillBackground">
@@ -991,7 +991,7 @@ background: lightgreen;
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -1016,12 +1016,12 @@ background: yellow;
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-background: rgb(255, 100, 100);
+background: rgb(255, 130, 130);
 
 }
 </string>
