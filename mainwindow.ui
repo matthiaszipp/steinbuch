@@ -957,14 +957,14 @@ QGroupBox::title {
     <property name="geometry">
      <rect>
       <x>80</x>
-      <y>410</y>
+      <y>420</y>
       <width>171</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="autoFillBackground">
@@ -984,14 +984,14 @@ background: lightgreen;
     <property name="geometry">
      <rect>
       <x>500</x>
-      <y>410</y>
+      <y>420</y>
       <width>171</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -1009,14 +1009,14 @@ background: yellow;
     <property name="geometry">
      <rect>
       <x>290</x>
-      <y>410</y>
+      <y>420</y>
       <width>171</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <pointsize>11</pointsize>
      </font>
     </property>
     <property name="styleSheet">

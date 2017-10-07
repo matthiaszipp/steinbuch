@@ -178,7 +178,7 @@ def Anlernen():
     maingui.repaint()
 
 def BspAnlernen():
-
+    Vergessen()
     for i in range(anzahlNeuronen):
         # i läuft durch und entspricht gerade dem ausgewählten Label
         maingui.setBuchstabenVisible(index=i)
