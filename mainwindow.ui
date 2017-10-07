@@ -36,7 +36,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>14</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -90,7 +90,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -121,7 +121,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -152,7 +152,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -183,7 +183,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -214,7 +214,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -245,7 +245,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -276,7 +276,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -307,7 +307,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -341,7 +341,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -372,7 +372,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -462,7 +462,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -486,7 +486,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -510,7 +510,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -534,7 +534,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -558,7 +558,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -582,7 +582,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -606,7 +606,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -870,7 +870,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -894,7 +894,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -942,7 +942,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>14</pointsize>
+          <pointsize>16</pointsize>
          </font>
         </property>
         <property name="text">
@@ -1041,6 +1041,11 @@ background: rgb(255, 100, 100);
       <width>41</width>
       <height>311</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
     </property>
     <property name="styleSheet">
      <string notr="true"/>
@@ -5543,7 +5548,7 @@ background: rgb(255, 100, 100);
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>14</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -5574,7 +5579,7 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>14</pointsize>
      </font>
     </property>
     <property name="styleSheet">
