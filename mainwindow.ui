@@ -12,7 +12,7 @@
   </property>
   <property name="font">
    <font>
-    <family>Sans Serif</family>
+    <family>Monospace</family>
    </font>
   </property>
   <property name="windowTitle">
@@ -59,9 +59,9 @@ QGroupBox::title {
      <property name="geometry">
       <rect>
        <x>10</x>
-       <y>0</y>
+       <y>-10</y>
        <width>81</width>
-       <height>291</height>
+       <height>301</height>
       </rect>
      </property>
      <layout class="QGridLayout" name="gridLayout">
@@ -1488,7 +1488,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -1939,7 +1939,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -2384,7 +2384,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -2829,7 +2829,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -3274,7 +3274,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -3719,7 +3719,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -4164,7 +4164,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -4609,7 +4609,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -5054,7 +5054,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
@@ -5499,7 +5499,7 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Droid Sans Mono</family>
+       <family>Monospace</family>
        <pointsize>14</pointsize>
        <weight>50</weight>
        <bold>false</bold>
