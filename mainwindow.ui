@@ -30,7 +30,7 @@
      <rect>
       <x>0</x>
       <y>100</y>
-      <width>101</width>
+      <width>111</width>
       <height>301</height>
      </rect>
     </property>
@@ -413,7 +413,7 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>11</pointsize>
+      <pointsize>16</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -431,7 +431,7 @@ QGroupBox::title {
 }</string>
     </property>
     <property name="title">
-     <string>Wiedererkennung</string>
+     <string>Erkennung</string>
     </property>
     <widget class="QWidget" name="gridLayoutWidget">
      <property name="geometry">
@@ -1515,10 +1515,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -1966,10 +1966,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -2411,10 +2411,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -2856,10 +2856,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -3301,10 +3301,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -3746,10 +3746,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -4191,10 +4191,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -4636,10 +4636,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -5081,10 +5081,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -5526,10 +5526,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>DejaVu Sans Mono</family>
+       <family>Nimbus Sans L</family>
        <pointsize>12</pointsize>
-       <weight>50</weight>
-       <bold>false</bold>
+       <weight>75</weight>
+       <bold>true</bold>
       </font>
      </property>
      <property name="text">
@@ -5540,9 +5540,9 @@ background: rgb(255, 100, 100);
    <widget class="QGroupBox" name="groupBox">
     <property name="geometry">
      <rect>
-      <x>110</x>
+      <x>120</x>
       <y>100</y>
-      <width>541</width>
+      <width>531</width>
       <height>301</height>
      </rect>
     </property>
