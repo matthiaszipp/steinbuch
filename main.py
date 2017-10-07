@@ -49,7 +49,8 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
         self.anlernenButton.clicked.connect(Anlernen)
         self.beispielButton.clicked.connect(BspAnlernen)
         self.vergessenButton.clicked.connect(Vergessen)
-        #self.showFullScreen()
+
+
         self.setBuchstabenVisible(all=True,visible=False)
         self.update()
         self.show()
@@ -212,10 +213,18 @@ Neuronen = list()
 for i in range(anzahlNeuronen):
         Neuronen.append(Neuron())
 
+
 #Guis initialisieren
 app = QtGui.QApplication(sys.argv)
 maingui = MainWindow()
 eingabegui = EingabeWindow()
+
+if len(sys.argv) > 1:
+    if (sys.argv[1] == "--server"):
+        maingui.showFullScreen()
+    if (sys.argv[1] == "--client"):
+        eingabegui.showFullScreen()
+
 
 #Eigenen Thread für Server erstellen
 serverThread = QtCore.QThread()
@@ -224,5 +233,6 @@ einServer.recieved.connect(udpRecievedEvent)
 einServer.moveToThread(serverThread)
 serverThread.started.connect(einServer.listen)
 serverThread.start()
+
 
 sys.exit(app.exec_())
