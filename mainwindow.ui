@@ -30,13 +30,13 @@
      <rect>
       <x>10</x>
       <y>100</y>
-      <width>81</width>
+      <width>91</width>
       <height>301</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>8</pointsize>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -58,9 +58,9 @@ QGroupBox::title {
     <widget class="QWidget" name="gridLayoutWidget_2">
      <property name="geometry">
       <rect>
-       <x>10</x>
+       <x>0</x>
        <y>0</y>
-       <width>61</width>
+       <width>81</width>
        <height>291</height>
       </rect>
      </property>
@@ -78,19 +78,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -109,19 +109,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -140,19 +140,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -171,19 +171,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -202,19 +202,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -233,19 +233,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -264,19 +264,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -295,19 +295,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -329,19 +329,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -360,19 +360,19 @@ QGroupBox::title {
         </property>
         <property name="minimumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>40</width>
+          <width>50</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
           <italic>false</italic>
          </font>
         </property>
@@ -391,7 +391,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -405,15 +405,15 @@ QGroupBox::title {
    <widget class="QGroupBox" name="groupBox_Kannphase">
     <property name="geometry">
      <rect>
-      <x>670</x>
+      <x>650</x>
       <y>100</y>
-      <width>121</width>
+      <width>141</width>
       <height>301</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>8</pointsize>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -438,7 +438,7 @@ QGroupBox::title {
       <rect>
        <x>10</x>
        <y>0</y>
-       <width>106</width>
+       <width>131</width>
        <height>291</height>
       </rect>
      </property>
@@ -450,19 +450,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_8">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -474,19 +474,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_13">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -498,19 +498,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_14">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -522,19 +522,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_7">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -546,19 +546,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_15">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -570,19 +570,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_12">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -594,19 +594,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_9">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -618,7 +618,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b0_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -636,7 +636,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b1_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -654,7 +654,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b2_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -672,7 +672,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b3_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -690,7 +690,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b4_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -708,7 +708,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b5_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -726,7 +726,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b6_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -744,7 +744,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b7_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -762,7 +762,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b8_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -780,7 +780,7 @@ QGroupBox::title {
        <widget class="QProgressBar" name="b9_progress">
         <property name="maximumSize">
          <size>
-          <width>80</width>
+          <width>90</width>
           <height>20</height>
          </size>
         </property>
@@ -798,19 +798,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_10">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -822,19 +822,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_11">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -858,7 +858,7 @@ QGroupBox::title {
         </property>
         <property name="font">
          <font>
-          <pointsize>6</pointsize>
+          <pointsize>10</pointsize>
          </font>
         </property>
         <property name="text">
@@ -870,19 +870,19 @@ QGroupBox::title {
        <widget class="QLabel" name="label_16">
         <property name="minimumSize">
          <size>
-          <width>0</width>
-          <height>0</height>
+          <width>20</width>
+          <height>20</height>
          </size>
         </property>
         <property name="maximumSize">
          <size>
-          <width>15</width>
+          <width>20</width>
           <height>20</height>
          </size>
         </property>
         <property name="font">
          <font>
-          <pointsize>10</pointsize>
+          <pointsize>12</pointsize>
          </font>
         </property>
         <property name="text">
@@ -1450,8 +1450,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -1899,8 +1901,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2342,8 +2346,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -2785,8 +2791,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3228,8 +3236,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -3671,8 +3681,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4114,8 +4126,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -4557,8 +4571,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5000,8 +5016,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5443,8 +5461,10 @@ background: rgb(255, 100, 100);
      </property>
      <property name="font">
       <font>
-       <family>Monospace</family>
-       <pointsize>10</pointsize>
+       <family>DejaVu Sans Mono</family>
+       <pointsize>12</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
       </font>
      </property>
      <property name="text">
@@ -5463,7 +5483,7 @@ background: rgb(255, 100, 100);
     </property>
     <property name="font">
      <font>
-      <pointsize>8</pointsize>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -5494,7 +5514,7 @@ QGroupBox::title {
     </property>
     <property name="font">
      <font>
-      <pointsize>8</pointsize>
+      <pointsize>10</pointsize>
      </font>
     </property>
     <property name="styleSheet">
