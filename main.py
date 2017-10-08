@@ -67,7 +67,7 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
         for i in range(20):
 
             if (eingabevektor[i] == 1):
-                qp.setBrush(QtGui.QColor(255, 220, 0))
+                qp.setBrush(QtGui.QColor(255, 255, 0))
             else:
                 qp.setBrush(QtGui.QColor(180, 180, 180))
 
@@ -81,7 +81,7 @@ class MainWindow(QtGui.QMainWindow,Ui_MainWindow):
             for spalte in range(20):
 
                 if(Neuronen[zeile].gewicht[spalte] == 1):
-                    qp.setBrush(QtGui.QColor(255, 220, 0))
+                    qp.setBrush(QtGui.QColor(255, 255, 0))
                 else:
                     qp.setBrush(QtGui.QColor(180, 180, 180))
 
@@ -110,10 +110,8 @@ class EingabeWindow(QtGui.QWidget,Ui_EingabeWindow):
         for child in self.gridLayoutWidget_2.findChildren(QPushButton):
             child.clicked.connect(UpdateButtons)
 
-        for child in self.gridLayoutWidget_2.findChildren(QPushButton):
-            child.installEventFilter(self)
-
-        #self.button00.setChecked(True)
+       # for child in self.gridLayoutWidget_2.findChildren(QPushButton):
+       #     child.installEventFilter(self)
         self.show()
 
 
