@@ -110,19 +110,20 @@ class EingabeWindow(QtGui.QWidget,Ui_EingabeWindow):
         for child in self.gridLayoutWidget_2.findChildren(QPushButton):
             child.clicked.connect(UpdateButtons)
 
-       # for child in self.gridLayoutWidget_2.findChildren(QPushButton):
-       #     child.installEventFilter(self)
+        for child in self.gridLayoutWidget_2.findChildren(QPushButton):
+            child.installEventFilter(self)
         self.show()
 
 
 
     def eventFilter(self, object, event):
 
-        if event.type() == QtCore.QEvent.HoverMove:
+        #if event.type() == QtCore.QEvent.HoverMove:
+        if event.type() == QtCore.QEvent.MouseButtonPress:
             object.setChecked(True)
+            object.setEnabled(False)
             UpdateButtons()
             return True
-
         return False
 
 def PrintEingabe():
@@ -187,7 +188,7 @@ def Anlernen():
             Neuronen[i].Anlernen()
             break
     PrintEingabe()
-    ResetEingabe()
+    #ResetEingabe()
 
     maingui.repaint()
 
@@ -246,6 +247,8 @@ einServer.recieved.connect(udpRecievedEvent)
 einServer.moveToThread(serverThread)
 serverThread.started.connect(einServer.listen)
 serverThread.start()
+
+
 
 
 sys.exit(app.exec_())
