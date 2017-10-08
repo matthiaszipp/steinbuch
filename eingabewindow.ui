@@ -16,9 +16,9 @@
   <widget class="QPushButton" name="resetButton">
    <property name="geometry">
     <rect>
-     <x>580</x>
+     <x>590</x>
      <y>180</y>
-     <width>181</width>
+     <width>191</width>
      <height>121</height>
     </rect>
    </property>
@@ -449,7 +449,7 @@
   <widget class="QGroupBox" name="groupBox_Eingabe">
    <property name="geometry">
     <rect>
-     <x>120</x>
+     <x>170</x>
      <y>10</y>
      <width>381</width>
      <height>461</height>
